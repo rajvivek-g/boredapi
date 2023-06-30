@@ -1,0 +1,7 @@
+[INFO ] 2023-06-30 09:29:52.420 [main] GET_Request - ---------------------------------------------Reporting Logs------------------------------------------------------
+[INFO ] 2023-06-30 09:29:56.449 [main] GET_Request - Passed for the Activity: Play a game of tennis with a friend. Expected Type: social and Actual Type: social
+[INFO ] 2023-06-30 09:29:56.478 [main] GET_Request - Passed for the Activity: Play a game of tennis with a friend. Expected Participants: 2 and Actual Participants: 2
+[INFO ] 2023-06-30 09:29:57.393 [main] GET_Request - Passed for the Activity: Text a friend you haven't talked to in a long time. Expected Type: social and Actual Type: social
+[INFO ] 2023-06-30 09:29:57.413 [main] GET_Request - Passed for the Activity: Text a friend you haven't talked to in a long time. Expected Participants: 2 and Actual Participants: 2
+[INFO ] 2023-06-30 09:29:58.247 [main] GET_Request - Passed for the Activity: Go swimming with a friend. Expected Type: social and Actual Type: social
+[INFO ] 2023-06-30 09:29:58.267 [main] GET_Request - Passed for the Activity: Go swimming with a friend. Expected Participants: 2 and Actual Participants: 2
